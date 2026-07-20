@@ -17,4 +17,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 **Based on:** "9 Power Prompts" and AI Copy Chief Training by Stefan Georgi
 
-**Implementation:** Mikael Lovrin for FEG (Direct Response Marketing)
+**Implementation:** Mikael Lovrin for FEG
